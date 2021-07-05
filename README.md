@@ -1,4 +1,4 @@
-### Hi, Myself Bikramdeep Singh 👋
+### 👋 Hi, Myself Bikramdeep Singh 
 
 I'm a Software Engineer who is passionate about learning new skills.
 Technologies I know are C, C++, Java, MySQL, HTML, CSS and Javascript. 
