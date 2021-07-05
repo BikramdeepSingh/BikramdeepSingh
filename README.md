@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, Myself Bikramdeep Singh 👋
 
-<!--
-**BikramdeepSingh/BikramdeepSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer who is passionate about learning new skills.
+Technologies I know are C, C++, Java, MySQL, HTML, CSS and Javascript. 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning python.
+- 📫 How to reach me: links below
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to edit videos in my leisure time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me elsewhere 🌎
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/bikramdeep-singh-b00492201/)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/biksaini20)
+
+
+
+
+
+
