@@ -1,7 +1,7 @@
 ### 👋 Hi, Myself Bikramdeep Singh 
 
-I'm a Software Engineer who is passionate about learning new skills.
-Technologies I know are C, C++, Java, MySQL, HTML, CSS and Javascript. 
+A keen learner, passionate to explore and grab as much knowledge in order to feed my hunger for learning new technologies.
+Technologies I know are Python, Java, C++, C, MySQL, Javascript, CSS and HTML. 
 
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: links below
