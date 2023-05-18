@@ -3,7 +3,7 @@
 A keen learner, passionate to explore and grab as much knowledge in order to feed my hunger for learning new technologies.
 Technologies I know are Python, Java, C++, C, MySQL, Javascript, CSS and HTML. 
 
-- 🌱 I’m currently exploring Python.
+- 🌱 I’m currently a student of AI and Data Science.
 - 📫 How to reach me: links below
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to edit videos in my leisure time.
