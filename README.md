@@ -22,7 +22,9 @@ I'm currently a student pursuing AI and Data Science, where I'm honing my skills
 Feel free to reach out to me through the following channels:
 
 Email: biksaini20@gmail.com
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/bikramdeep-singh-b00492201/)
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/biksaini20)
 
 ## Pronouns
