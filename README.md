@@ -1,6 +1,8 @@
 ### 
 
+<div align="center">
 ![App Screenshot](https://media.licdn.com/dms/image/D5603AQHC3ouojqJA3g/profile-displayphoto-shrink_400_400/0/1696449366570?e=1710979200&v=beta&t=-8oiAG-XaCv11__ss_3vKvxAZk-moxuRuR3rpIiFOXE)
+</div>
 
 Hi there! 👋
 
