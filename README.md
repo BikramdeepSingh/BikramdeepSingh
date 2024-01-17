@@ -1,22 +1,40 @@
 ### 
 
+![App Screenshot](https://media.licdn.com/dms/image/D5603AQHC3ouojqJA3g/profile-displayphoto-shrink_400_400/0/1696449366570?e=1710979200&v=beta&t=-8oiAG-XaCv11__ss_3vKvxAZk-moxuRuR3rpIiFOXE)
+
 Hi there! 👋
 
-I'm Bikramdeep Singh, a passionate learner driven by the desire to explore and acquire knowledge in various technologies. I have a strong appetite for learning new things, especially in the field of AI and Data Science. In addition to my studies, I love to edit videos during my leisure time, adding a creative touch to my life.
+- Post Graduate with Certification in AI & Data science from Loyalist College, Toronto with strong emphasis on employing Machine Learning techniques, utilizing Business Intelligence tools, and proficiently using Python programming.
+- Skilled in applying machine learning methodologies, including Regression, Classification, and Clustering, to address business challenges.
+- Hands-on expertise with analytical tools, technologies, and programming languages, such as SQL, Microsoft Excel, Tableau, Power BI, and Python.
+- 3 months of prior internship experience in data engineering with Edifecs, India.
 
 ## Skills and Technologies
 Here are the technologies I have experience with:
-- Python
-- Java
-- C++
-- C
-- MySQL
-- JavaScript
-- CSS
-- HTML
+- HTML, CSS, JavaScipyt
+- Python, R, Java, C++, C
+- SQL, MySQL
+- Power BI, Tableau
+- Git, GitHub
+- MS Office
+
+- Microsoft Azure
+- Descriptive Statistics, Regression Analysis, Hypothesis Testing, Data Cleansing, Exploratory Data Analysis, Correlation and Causation, Time Series Analysis, Feature Engineering, Data Cleansing, Dimensionality Reduction
+- Natural Language Processing
+- Decision Trees and Random Forests
 
 ## Education
-I'm currently a student pursuing AI and Data Science, where I'm honing my skills and expanding my knowledge in these exciting fields. As a curious individual, I constantly seek out opportunities to grow and apply my learning to real-world projects.
+- GRADUATE CERTIFICATE
+  LOYALIST COLLEGE
+  TORONTO, ON
+  Graduated in Artificial Intelligence & Data Science (84.9 GPA, Dean List*)
+  2022 - 2023
+
+- BACHELOR OF TECHNOLOGY
+  PUNJAB TECHNICAL UNIVERSITY
+  INDIA
+  Graduated in Computer Science Engineering (85.1 SGPA)
+  2017 - 2021
 
 ## How to Reach Me
 Feel free to reach out to me through the following channels:
@@ -38,7 +56,11 @@ I'm proficient in the following languages:
 - Punjabi
 
 ## Additional Information
-If you're interested in collaborating on projects, discussing exciting technologies, or simply want to have a chat, don't hesitate to connect with me. I'm always eager to learn and grow alongside like-minded individuals.
+
+- Photography
+- Video Editing
+- Gaming
+- Cricket
 
 Thank you for visiting my profile! 😄
 
