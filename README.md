@@ -5,6 +5,7 @@
 </div>
 
 Hi there! 👋
+I am Bikramdeep Singh,
 
 - Post Graduate with Certification in AI & Data science from Loyalist College, Toronto with strong emphasis on employing Machine Learning techniques, utilizing Business Intelligence tools, and proficiently using Python programming.
 - Skilled in applying machine learning methodologies, including Regression, Classification, and Clustering, to address business challenges.
@@ -26,17 +27,17 @@ Here are the technologies I have experience with:
 - Decision Trees and Random Forests
 
 ## Education
-- GRADUATE CERTIFICATE
-  LOYALIST COLLEGE
-  TORONTO, ON
-  Graduated in Artificial Intelligence & Data Science (84.9 GPA, Dean List*)
-  2022 - 2023
+- GRADUATE CERTIFICATE<br>
+  LOYALIST COLLEGE<br>
+  TORONTO, ON<br>
+  Graduated in Artificial Intelligence & Data Science (84.9 GPA, Dean List*)<br>
+  2022 - 2023<br>
 
-- BACHELOR OF TECHNOLOGY
-  PUNJAB TECHNICAL UNIVERSITY
-  INDIA
-  Graduated in Computer Science Engineering (85.1 SGPA)
-  2017 - 2021
+- BACHELOR OF TECHNOLOGY<br>
+  PUNJAB TECHNICAL UNIVERSITY<br>
+  INDIA<br>
+  Graduated in Computer Science Engineering (85.1 SGPA)<br>
+  2017 - 2021<br>
 
 ## How to Reach Me
 Feel free to reach out to me through the following channels:
